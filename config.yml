@@ -89,6 +89,7 @@ homebrew_installed_packages:
   - lazydocker
   - plantuml
   - dive
+  - dos2unix
 
 
 homebrew_taps:
