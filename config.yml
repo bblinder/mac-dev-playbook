@@ -13,6 +13,7 @@ dotfiles_files:
   - .zshrc
   - .vimrc
 
+#homebrew_install_path: /usr/local/homebrew
 homebrew_installed_packages:
   - ansible # Installed via Pip.
   - autoconf
