@@ -91,6 +91,7 @@ homebrew_installed_packages:
   - plantuml
   - dive
   - dos2unix
+  - rkhunter
 
 
 homebrew_taps:
